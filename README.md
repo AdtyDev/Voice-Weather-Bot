@@ -43,5 +43,8 @@ cd weather-voice-assistant
 
 pip install requests pywin32
 
-#To run the file
+
+
+#To run the file:
+
 python weather_bot.py

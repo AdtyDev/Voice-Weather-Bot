@@ -1,4 +1,4 @@
- Voice Weather Bot
+**🌦️ Voice Weather Bot**
 
 A simple Python script that fetches the current temperature of a user-specified location using the WeatherAPI and speaks it aloud using a built-in voice assistant (Windows only).
 

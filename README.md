@@ -40,6 +40,7 @@ cd weather-voice-assistant
 
 
 **Install dependencies**:
+
 pip install requests pywin32
 
 #To run the file
